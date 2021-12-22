@@ -1,0 +1,48 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\20110360_PhanTienDat\\Bai_2\\ex2(29-9).csproj": {}
+  },
+  "projects": {
+    "D:\\20110360_PhanTienDat\\Bai_2\\ex2(29-9).csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\20110360_PhanTienDat\\Bai_2\\ex2(29-9).csproj",
+        "projectName": "ex2(29-9)",
+        "projectPath": "D:\\20110360_PhanTienDat\\Bai_2\\ex2(29-9).csproj",
+        "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
+        "outputPath": "D:\\20110360_PhanTienDat\\Bai_2\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net50"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net50": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net50": {
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.119\\RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "win7-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

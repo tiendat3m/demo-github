@@ -1,0 +1,17 @@
+C:\Users\tungl\source\repos\ex2(29-9)\ex2(29-9)\bin\Debug\net5.0\ex2(29-9).exe
+C:\Users\tungl\source\repos\ex2(29-9)\ex2(29-9)\bin\Debug\net5.0\ex2(29-9).deps.json
+C:\Users\tungl\source\repos\ex2(29-9)\ex2(29-9)\bin\Debug\net5.0\ex2(29-9).runtimeconfig.json
+C:\Users\tungl\source\repos\ex2(29-9)\ex2(29-9)\bin\Debug\net5.0\ex2(29-9).runtimeconfig.dev.json
+C:\Users\tungl\source\repos\ex2(29-9)\ex2(29-9)\bin\Debug\net5.0\ex2(29-9).dll
+C:\Users\tungl\source\repos\ex2(29-9)\ex2(29-9)\bin\Debug\net5.0\ref\ex2(29-9).dll
+C:\Users\tungl\source\repos\ex2(29-9)\ex2(29-9)\bin\Debug\net5.0\ex2(29-9).pdb
+C:\Users\tungl\source\repos\ex2(29-9)\ex2(29-9)\obj\Debug\net5.0\ex2(29-9).csproj.AssemblyReference.cache
+C:\Users\tungl\source\repos\ex2(29-9)\ex2(29-9)\obj\Debug\net5.0\ex2(29-9).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tungl\source\repos\ex2(29-9)\ex2(29-9)\obj\Debug\net5.0\ex2(29-9).AssemblyInfoInputs.cache
+C:\Users\tungl\source\repos\ex2(29-9)\ex2(29-9)\obj\Debug\net5.0\ex2(29-9).AssemblyInfo.cs
+C:\Users\tungl\source\repos\ex2(29-9)\ex2(29-9)\obj\Debug\net5.0\ex2(29-9).csproj.CoreCompileInputs.cache
+C:\Users\tungl\source\repos\ex2(29-9)\ex2(29-9)\obj\Debug\net5.0\ex2(29-9).dll
+C:\Users\tungl\source\repos\ex2(29-9)\ex2(29-9)\obj\Debug\net5.0\ref\ex2(29-9).dll
+C:\Users\tungl\source\repos\ex2(29-9)\ex2(29-9)\obj\Debug\net5.0\ex2(29-9).pdb
+C:\Users\tungl\source\repos\ex2(29-9)\ex2(29-9)\obj\Debug\net5.0\ex2(29-9).genruntimeconfig.cache
+D:\20110360_PhanTienDat\Bai_2\obj\Debug\net5.0\ex2(29-9).pdb

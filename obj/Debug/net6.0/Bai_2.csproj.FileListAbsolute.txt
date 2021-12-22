@@ -1,0 +1,15 @@
+C:\Users\DellPC\Downloads\20110360_PhanTienDat\Bai_2\bin\Debug\net6.0\Bai_2.exe
+C:\Users\DellPC\Downloads\20110360_PhanTienDat\Bai_2\bin\Debug\net6.0\Bai_2.deps.json
+C:\Users\DellPC\Downloads\20110360_PhanTienDat\Bai_2\bin\Debug\net6.0\Bai_2.runtimeconfig.json
+C:\Users\DellPC\Downloads\20110360_PhanTienDat\Bai_2\bin\Debug\net6.0\Bai_2.dll
+C:\Users\DellPC\Downloads\20110360_PhanTienDat\Bai_2\bin\Debug\net6.0\ref\Bai_2.dll
+C:\Users\DellPC\Downloads\20110360_PhanTienDat\Bai_2\bin\Debug\net6.0\Bai_2.pdb
+C:\Users\DellPC\Downloads\20110360_PhanTienDat\Bai_2\obj\Debug\net6.0\Bai_2.csproj.AssemblyReference.cache
+C:\Users\DellPC\Downloads\20110360_PhanTienDat\Bai_2\obj\Debug\net6.0\Bai_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DellPC\Downloads\20110360_PhanTienDat\Bai_2\obj\Debug\net6.0\Bai_2.AssemblyInfoInputs.cache
+C:\Users\DellPC\Downloads\20110360_PhanTienDat\Bai_2\obj\Debug\net6.0\Bai_2.AssemblyInfo.cs
+C:\Users\DellPC\Downloads\20110360_PhanTienDat\Bai_2\obj\Debug\net6.0\Bai_2.csproj.CoreCompileInputs.cache
+C:\Users\DellPC\Downloads\20110360_PhanTienDat\Bai_2\obj\Debug\net6.0\Bai_2.dll
+C:\Users\DellPC\Downloads\20110360_PhanTienDat\Bai_2\obj\Debug\net6.0\ref\Bai_2.dll
+C:\Users\DellPC\Downloads\20110360_PhanTienDat\Bai_2\obj\Debug\net6.0\Bai_2.pdb
+C:\Users\DellPC\Downloads\20110360_PhanTienDat\Bai_2\obj\Debug\net6.0\Bai_2.genruntimeconfig.cache
